@@ -9,6 +9,7 @@ Aside from analytics and statistics, I am also interested in developing my skill
 - 🔭 I’m currently working on data analytics projects as my portfolio.
 - 🌱 I’m currently learning how to implement visualization on the website either using Dash or via Tableau API.
 - 📫 How to reach me via LinkedIn: https://www.linkedin.com/in/kelvin-gunawan-236265149/
+- 📨 Email: kelvin0898@live.com
 
 #### Knowledge:
 * Data analytics skillset:

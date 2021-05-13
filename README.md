@@ -1,16 +1,25 @@
-### Hi there 👋
+## Greetings, Folks!!! 👋
 
-<!--
-**kelvouttt/kelvouttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a special repository to briefly introduce myself and my background.
 
-Here are some ideas to get you started:
+## About Me
+My name is Kelvin and I am an aspiring data analyst from Indonesia currently living in Sydney.\
+Aside from analytics and statistics, I am also interested in developing my skills as a web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on data analytics projects as my portfolio.
+- 🌱 I’m currently learning how to implement visualization on the website either using Dash or via Tableau API.
+- 📫 How to reach me via LinkedIn: https://www.linkedin.com/in/kelvin-gunawan-236265149/
+
+#### Knowledge:
+* Data analytics skillset:
+  * Python
+    * matplotlib
+    * NumPy
+    * pandas
+    * Seaborn
+  * SQL
+  * Tableau
+  * Microsoft Excel
+* Foundational C#
+* Unity
+* HTML, CSS and JavaScript
